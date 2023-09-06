@@ -4,7 +4,7 @@
     https://fonts.google.com/
     
   ----------------------------------------------------------------------- */
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300);
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
   /* --------------------------------------------------------------------
   
@@ -13,11 +13,11 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
-      --font: "Open Sans", Helvetica, sans-serif;
+      --color-lightest: #5eb908;
+      --color-light: #dd2f2f;
+      --color: #dd2f2f;
+      --color-dark: #5eb908;
+      --font-family: 'Bebas Neue', sans-serif;
   }
 
   /* -------------------------------------------------------------------
